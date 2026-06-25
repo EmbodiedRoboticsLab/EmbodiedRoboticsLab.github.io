@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">RICG publication image placeholder</title>
+  <desc id="desc">Abstract robot control figure placeholder</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ebe5db"/>
+      <stop offset="1" stop-color="#d7cfc1"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <g fill="none" stroke="#8b8275" stroke-width="6" opacity=".75">
+    <path d="M110 480 C210 340 230 280 340 250 S520 165 675 105"/>
+    <path d="M165 120 L285 210 L345 165 L455 265 L590 180"/>
+    <circle cx="190" cy="410" r="48"/>
+    <circle cx="350" cy="255" r="40"/>
+    <circle cx="565" cy="175" r="45"/>
+  </g>
+  <g fill="#9a5c3c" opacity=".92">
+    <circle cx="190" cy="410" r="13"/>
+    <circle cx="350" cy="255" r="13"/>
+    <circle cx="565" cy="175" r="13"/>
+  </g>
+  <text x="68" y="540" fill="#4a4540" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3">RICG · FIGURE</text>
+</svg>

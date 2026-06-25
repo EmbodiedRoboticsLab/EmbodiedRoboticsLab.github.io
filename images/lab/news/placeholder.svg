@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-label="RICG news image placeholder">
+  <rect width="960" height="720" fill="#e9e4db"/>
+  <rect x="58" y="58" width="844" height="604" rx="4" fill="#f7f4ee" stroke="#c9c3b8" stroke-width="3"/>
+  <path d="M178 486 L362 300 L486 421 L606 243 L786 486" fill="none" stroke="#8d4e2d" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="362" cy="300" r="17" fill="#8d4e2d"/>
+  <circle cx="606" cy="243" r="17" fill="#8d4e2d"/>
+  <text x="480" y="566" text-anchor="middle" fill="#24231f" font-family="Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="4">RICG · NEWS IMAGE</text>
+  <text x="480" y="612" text-anchor="middle" fill="#68655f" font-family="Arial, sans-serif" font-size="22">Replace with a project, experiment, or publication figure.</text>
+</svg>
